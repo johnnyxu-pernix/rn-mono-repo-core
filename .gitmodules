@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = git@github-pernix:johnnyxu-pernix/rn-core.git
